@@ -29,3 +29,6 @@
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF3030?logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-BB122B?logo=raspberrypi&logoColor=white)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeheon7134)](https://github.com/anuraghazra/github-readme-stats)
