@@ -10,7 +10,9 @@
 
 <strong>Languages I use most often:</strong><br><br>
 <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" height="30">
+<img src="https://img.shields.io/badge/C-11-00599C?logo=c%2B%2B&logoColor=white" height="30">
 <img src="https://img.shields.io/badge/C++-11-00599C?logo=c%2B%2B&logoColor=white" height="30">
+
 
 <br><br>
 
