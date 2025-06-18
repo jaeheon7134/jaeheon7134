@@ -16,7 +16,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion)
 
 ### Technologies
-
 ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu)
 ![ROS 2 Jazzy](https://img.shields.io/badge/ROS%202-Jazzy-4C5B6C?logo=ros)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5-5C3EE8?logo=opencv)
@@ -24,3 +23,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=sqlite)
 
+### Development Boards
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-3C3C3C?logo=espressif)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-CC0000?logo=raspberrypi)
