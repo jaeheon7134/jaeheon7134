@@ -60,4 +60,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheon7134&layout=compact&langs_count=8&theme=default" height="170">
 </a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jaeheon7134)](https://solved.ac/jaeheon7134)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rjstmf123)](https://solved.ac/rjstmf123)
